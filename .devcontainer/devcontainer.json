@@ -74,7 +74,7 @@
         "8000": {
             "label": "NGINX",
             "onAutoForward": "notify"
-        },
+        }, I 
         "8001": {
             "label": "Datatracker",
             "onAutoForward": "ignore"
